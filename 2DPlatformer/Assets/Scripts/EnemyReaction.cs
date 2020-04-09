@@ -22,7 +22,7 @@ public class EnemyReaction : MonoBehaviour {
         {
             health -= 25;
             healthBar.value = health / maxHealth;
-            if (healthBar.value == 0)
+            if (health == 0)
             {
                 Debug.Log("Player1Dead");
                 Player1Dead = true;
@@ -37,7 +37,7 @@ public class EnemyReaction : MonoBehaviour {
         {
             health2 -= 25;
             healthBar2.value = health2 / maxHealth;
-            if (healthBar2.value == 0)
+            if (health2 == 0)
             {
                 Debug.Log("Player2 Dead");
                 Player2Dead = true;
