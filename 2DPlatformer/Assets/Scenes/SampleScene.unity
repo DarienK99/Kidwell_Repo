@@ -325,6 +325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 894335ca7295ad646b5cde7132fef312, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PauseMenu: {fileID: 1360782759}
   healthBar: {fileID: 1344014650}
   healthBar2: {fileID: 0}
   Player1: 1
@@ -604,6 +605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 894335ca7295ad646b5cde7132fef312, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PauseMenu: {fileID: 1360782759}
   healthBar: {fileID: 1344014650}
   healthBar2: {fileID: 546179179}
   Player1: 0
@@ -1580,6 +1582,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1516067258}
   - component: {fileID: 1516067257}
+  - component: {fileID: 1516067259}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -1614,6 +1617,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1516067259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1516067256}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8914a1514d2dad940bc25c25c0054040, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1611319419
 GameObject:
   m_ObjectHideFlags: 0

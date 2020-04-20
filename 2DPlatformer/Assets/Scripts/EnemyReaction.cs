@@ -6,6 +6,8 @@ using UnityEngine.UI;
 
 public class EnemyReaction : MonoBehaviour {
 
+    public GameObject PauseMenu;
+
     static float maxHealth = 100;
     public Slider healthBar, healthBar2;
     float health = maxHealth;
@@ -26,6 +28,9 @@ public class EnemyReaction : MonoBehaviour {
             {
                 Debug.Log("Player1Dead");
                 Player1Dead = true;
+                Debug.Log("Player2 Wins");
+                Time.timeScale = 0f;
+                PauseMenu.SetActive(true);
                 if (Player2Dead)
                 {
                     SceneManager.LoadScene("SampleScene");
@@ -41,9 +46,12 @@ public class EnemyReaction : MonoBehaviour {
             {
                 Debug.Log("Player2 Dead");
                 Player2Dead = true;
-                if(Player1Dead)
+                Debug.Log("Player1 Wins");
+                Time.timeScale = 0f;
+                PauseMenu.SetActive(true);
+                if (Player1Dead)
                 {
-                    SceneManager.LoadScene("SamepleScene");
+                    SceneManager.LoadScene("SampleScene");
                 }
             }
         }
