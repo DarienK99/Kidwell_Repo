@@ -15,7 +15,7 @@ public class PlayGame : MonoBehaviour
     public void Play()
     {
         Debug.Log("Loading Scene");
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("scene1");
     }
 
 }

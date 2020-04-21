@@ -11,9 +11,15 @@ namespace UnityStandardAssets._2D
         private bool m_Jump;
         public bool Player1;
 
+        //GameObject player attack colliders
+
         private void Awake()
         {
             m_Character = GetComponent<PlatformerCharacter2D>();
+            if (!Player1)
+            {
+                m_Character.Flip();
+            }
         }
 
 
@@ -28,6 +34,8 @@ namespace UnityStandardAssets._2D
             {
                 m_Jump = CrossPlatformInputManager.GetButtonDown("Jump2");
             }
+
+            //if press this button then start coroutine ienumerator player attack functions
         }
 
 
@@ -50,5 +58,14 @@ namespace UnityStandardAssets._2D
                 m_Jump = false;
             }
         }
+
+        //ienumerator player attack functions and collider delay function
+        //wait for seconds .5 for player attack and 2 for collider delay
+
+        //player attack collider true or animation triggered
+        //yield return new waitforseconds()
+        //player attack collider false
+
+        //make player attacks deal damage lol, this will probably be an ontrigger2d function application
     }
 }
