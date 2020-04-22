@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: f51b89107d0d57c45aed42bda2841369
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7729867373834883095
+    second: Walking -Star_0
+  - first:
+      213: -6100085466528226198
+    second: Walking -Star_1
+  - first:
+      213: 8851581615162992087
+    second: Walking -Star_2
+  - first:
+      213: -3351139127022605956
+    second: Walking -Star_3
+  - first:
+      213: 8090579352721415186
+    second: Walking -Star_4
+  - first:
+      213: -5778832793197119397
+    second: Walking -Star_5
+  - first:
+      213: -7296438397633095176
+    second: Walking -Star_6
+  - first:
+      213: -4663264608364710908
+    second: Walking -Star_7
+  - first:
+      213: 5796893357368020699
+    second: Walking -Star_8
+  - first:
+      213: 5281573093664073244
+    second: Walking -Star_9
+  - first:
+      213: 7833901321475358991
+    second: Walking -Star_10
+  - first:
+      213: -6324885126196508607
+    second: Walking -Star_11
+  - first:
+      213: -1292559331100671160
+    second: Walking -Star_12
+  - first:
+      213: -4670736244230080873
+    second: Walking -Star_13
+  - first:
+      213: 6437773233042489742
+    second: Walking -Star_14
+  - first:
+      213: -3605542883734325915
+    second: Walking -Star_15
+  - first:
+      213: -84879979002914163
+    second: Walking -Star_16
+  - first:
+      213: -2898739123395372059
+    second: Walking -Star_17
+  - first:
+      213: -4390950966185314037
+    second: Walking -Star_18
+  - first:
+      213: -7491455658471046311
+    second: Walking -Star_19
+  - first:
+      213: -611567168291023798
+    second: Walking -Star_20
+  - first:
+      213: -5265784092230033009
+    second: Walking -Star_21
+  - first:
+      213: -5978918381412763166
+    second: Walking -Star_22
+  - first:
+      213: -3493588121737081952
+    second: Walking -Star_23
+  - first:
+      213: -6718539577871950524
+    second: Walking -Star_24
+  - first:
+      213: -5668022873670323375
+    second: Walking -Star_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walking -Star_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2569
+        width: 429
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efa0bdf39ef9b490800000000000000
+      internalID: -7729867373834883095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2569
+        width: 427
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64ef0c7694285ba0800000000000000
+      internalID: -6100085466528226198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_2
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 2569
+        width: 429
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d52b20d49227da70800000000000000
+      internalID: 8851581615162992087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_3
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2569
+        width: 429
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79a7e418bc5e71d0800000000000000
+      internalID: -3351139127022605956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_4
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2569
+        width: 427
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd11a3e03874070800000000000000
+      internalID: 8090579352721415186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2074
+        width: 429
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b587b1131367dcfa0800000000000000
+      internalID: -5778832793197119397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2074
+        width: 427
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f91f8f7fe7ddba90800000000000000
+      internalID: -7296438397633095176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_7
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 2074
+        width: 429
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40435c4bb81c84fb0800000000000000
+      internalID: -4663264608364710908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_8
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2074
+        width: 429
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde0eb69bc3b27050800000000000000
+      internalID: 5796893357368020699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_9
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2074
+        width: 427
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16ab17eebaeb4940800000000000000
+      internalID: 5281573093664073244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1568
+        width: 429
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0180000fbb97bc60800000000000000
+      internalID: 7833901321475358991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1568
+        width: 427
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148c7e70d7e7938a0800000000000000
+      internalID: -6324885126196508607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_12
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1568
+        width: 429
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843c0aaf228ef0ee0800000000000000
+      internalID: -1292559331100671160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_13
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1568
+        width: 429
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796bf1be1263e2fb0800000000000000
+      internalID: -4670736244230080873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_14
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1568
+        width: 427
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81040c85a0975950800000000000000
+      internalID: 6437773233042489742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1074
+        width: 429
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565f398a9d986fdc0800000000000000
+      internalID: -3605542883734325915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_16
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1074
+        width: 427
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a1dfadb1272def0800000000000000
+      internalID: -84879979002914163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_17
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1074
+        width: 429
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebdd7d102c95c7d0800000000000000
+      internalID: -2898739123395372059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_18
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1074
+        width: 429
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09bd5a4c553013c0800000000000000
+      internalID: -4390950966185314037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_19
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1074
+        width: 427
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9534e3225c0090890800000000000000
+      internalID: -7491455658471046311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 568
+        width: 429
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44d8b196e64387f0800000000000000
+      internalID: -611567168291023798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_21
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 568
+        width: 427
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81e9b6744d2ce6b0800000000000000
+      internalID: -5265784092230033009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_22
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 568
+        width: 429
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b6d6e86d960da0800000000000000
+      internalID: -5978918381412763166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_23
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 568
+        width: 429
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab4654fc18448fc0800000000000000
+      internalID: -3493588121737081952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_24
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 568
+        width: 427
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d1a8ba9d3f2c2a0800000000000000
+      internalID: -6718539577871950524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking -Star_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 74
+        width: 429
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15377141a332751b0800000000000000
+      internalID: -5668022873670323375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

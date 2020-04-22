@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 11aae77afda0c3b4c9e59c70ae56d3f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8167812702011774016
+    second: Kick - Dog_0
+  - first:
+      213: -5384837965759125613
+    second: Kick - Dog_1
+  - first:
+      213: 266573605246919610
+    second: Kick - Dog_2
+  - first:
+      213: -7164014498754336749
+    second: Kick - Dog_3
+  - first:
+      213: 122828171170181026
+    second: Kick - Dog_4
+  - first:
+      213: 3988320652542771102
+    second: Kick - Dog_5
+  - first:
+      213: 2714399764253231195
+    second: Kick - Dog_6
+  - first:
+      213: 7861588676492990619
+    second: Kick - Dog_7
+  - first:
+      213: -3049645228863058609
+    second: Kick - Dog_8
+  - first:
+      213: 4252005078949438997
+    second: Kick - Dog_9
+  - first:
+      213: 4637655378115353381
+    second: Kick - Dog_10
+  - first:
+      213: 6418615682111969869
+    second: Kick - Dog_11
+  - first:
+      213: -6507683741096614138
+    second: Kick - Dog_12
+  - first:
+      213: -6241946334387099363
+    second: Kick - Dog_13
+  - first:
+      213: 2585037933595063126
+    second: Kick - Dog_14
+  - first:
+      213: 7875881708482524811
+    second: Kick - Dog_15
+  - first:
+      213: 1385628529290984662
+    second: Kick - Dog_16
+  - first:
+      213: 1041003149795972632
+    second: Kick - Dog_17
+  - first:
+      213: 1810931491335245205
+    second: Kick - Dog_18
+  - first:
+      213: 2580999460520016202
+    second: Kick - Dog_19
+  - first:
+      213: 1459055724733263673
+    second: Kick - Dog_20
+  - first:
+      213: 3660121780070019734
+    second: Kick - Dog_21
+  - first:
+      213: 4367328977559324478
+    second: Kick - Dog_22
+  - first:
+      213: -7380587001235684934
+    second: Kick - Dog_23
+  - first:
+      213: -6616288505367299506
+    second: Kick - Dog_24
+  - first:
+      213: -1155281048367749579
+    second: Kick - Dog_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kick - Dog_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2541
+        width: 366
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb2aa85f9916ae80800000000000000
+      internalID: -8167812702011774016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2541
+        width: 367
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397e3e576663545b0800000000000000
+      internalID: -5384837965759125613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_2
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2541
+        width: 366
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3ec37184f03b300800000000000000
+      internalID: 266573605246919610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_3
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2541
+        width: 366
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318effb15ce449c90800000000000000
+      internalID: -7164014498754336749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_4
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 2541
+        width: 394
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af6207229f54b100800000000000000
+      internalID: 122828171170181026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2041
+        width: 393
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f7a21a08c595730800000000000000
+      internalID: 3988320652542771102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_6
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2041
+        width: 394
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58c7be343c7ba520800000000000000
+      internalID: 2714399764253231195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_7
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2041
+        width: 426
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b981990bf39f91d60800000000000000
+      internalID: 7861588676492990619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_8
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2041
+        width: 425
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d07a272db7da5d0800000000000000
+      internalID: -3049645228863058609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_9
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 2041
+        width: 432
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51620f95718220b30800000000000000
+      internalID: 4252005078949438997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1542
+        width: 430
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bde3bbef24c5040800000000000000
+      internalID: 4637655378115353381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1542
+        width: 432
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a1902a4f0831950800000000000000
+      internalID: 6418615682111969869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_12
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1542
+        width: 432
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e95ddd1010b5a0800000000000000
+      internalID: -6507683741096614138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_13
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1542
+        width: 366
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192ecf41e62069a0800000000000000
+      internalID: -6241946334387099363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_14
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1542
+        width: 367
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653f7d2fd46efd320800000000000000
+      internalID: 2585037933595063126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1041
+        width: 366
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f8178fa0cc4d60800000000000000
+      internalID: 7875881708482524811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1041
+        width: 367
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc39075ecdba3310800000000000000
+      internalID: 1385628529290984662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_17
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1041
+        width: 366
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816d6a969d2627e00800000000000000
+      internalID: 1041003149795972632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1041
+        width: 366
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d0b9db898b12910800000000000000
+      internalID: 1810931491335245205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_19
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1041
+        width: 367
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4935c9a55d81d320800000000000000
+      internalID: 2580999460520016202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 541
+        width: 366
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe934837b9f3410800000000000000
+      internalID: 1459055724733263673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 541
+        width: 367
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6927eb7ed5d5bc230800000000000000
+      internalID: 3660121780070019734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_22
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 541
+        width: 366
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3781b4e09edb9c30800000000000000
+      internalID: 4367328977559324478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 541
+        width: 366
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab14b75f933e29990800000000000000
+      internalID: -7380587001235684934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_24
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 541
+        width: 367
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4af412b8a83e24a0800000000000000
+      internalID: -6616288505367299506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick - Dog_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 42
+        width: 366
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ac48e10e97ffe0800000000000000
+      internalID: -1155281048367749579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

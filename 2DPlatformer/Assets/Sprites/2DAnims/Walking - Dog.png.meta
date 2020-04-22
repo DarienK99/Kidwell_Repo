@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 93cc3dab24927f04989c643917d6e64e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7258807450667967179
+    second: Walking - Dog_0
+  - first:
+      213: 5600348304300493702
+    second: Walking - Dog_1
+  - first:
+      213: 8544309154057586755
+    second: Walking - Dog_2
+  - first:
+      213: 498937065397016828
+    second: Walking - Dog_3
+  - first:
+      213: 5868674380562802471
+    second: Walking - Dog_4
+  - first:
+      213: 6244004815910934255
+    second: Walking - Dog_5
+  - first:
+      213: 1844287622195232043
+    second: Walking - Dog_6
+  - first:
+      213: 7601230995346937780
+    second: Walking - Dog_7
+  - first:
+      213: 4314992512151984959
+    second: Walking - Dog_8
+  - first:
+      213: 1119559379733294717
+    second: Walking - Dog_9
+  - first:
+      213: -8759240112670850947
+    second: Walking - Dog_10
+  - first:
+      213: 5754217144347970494
+    second: Walking - Dog_11
+  - first:
+      213: 4223901628327266377
+    second: Walking - Dog_12
+  - first:
+      213: 6720193256863666462
+    second: Walking - Dog_13
+  - first:
+      213: -8636734679121692047
+    second: Walking - Dog_14
+  - first:
+      213: 7752526643250123712
+    second: Walking - Dog_15
+  - first:
+      213: -5393780352617022312
+    second: Walking - Dog_16
+  - first:
+      213: 633121933228222417
+    second: Walking - Dog_17
+  - first:
+      213: 135667550315657104
+    second: Walking - Dog_18
+  - first:
+      213: -9019877661636237964
+    second: Walking - Dog_19
+  - first:
+      213: 5264268172825398109
+    second: Walking - Dog_20
+  - first:
+      213: -6831807987805756053
+    second: Walking - Dog_21
+  - first:
+      213: 2171148413874453367
+    second: Walking - Dog_22
+  - first:
+      213: 2148310153251713175
+    second: Walking - Dog_23
+  - first:
+      213: -2426321541950457751
+    second: Walking - Dog_24
+  - first:
+      213: 1816160340388425280
+    second: Walking - Dog_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walking - Dog_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2553
+        width: 309
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d1af91519834b90800000000000000
+      internalID: -7258807450667967179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2553
+        width: 310
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bca406c1f68bd40800000000000000
+      internalID: 5600348304300493702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_2
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2553
+        width: 309
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34888bae7eb739670800000000000000
+      internalID: 8544309154057586755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2553
+        width: 309
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d3441e949ce600800000000000000
+      internalID: 498937065397016828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_4
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 2553
+        width: 310
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727a1eb6148b17150800000000000000
+      internalID: 5868674380562802471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2053
+        width: 309
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe613344c4927a650800000000000000
+      internalID: 6244004815910934255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2047
+        width: 314
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2db89822d9389910800000000000000
+      internalID: 1844287622195232043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_7
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2047
+        width: 314
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d755315ffc7960800000000000000
+      internalID: 7601230995346937780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_8
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2047
+        width: 313
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b1a47f3dee1eb30800000000000000
+      internalID: 4314992512151984959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_9
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 2047
+        width: 313
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ea5fdf259798f00800000000000000
+      internalID: 1119559379733294717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1548
+        width: 314
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70c6e5a68de07680800000000000000
+      internalID: -8759240112670850947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1553
+        width: 310
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbc25171061bdf40800000000000000
+      internalID: 5754217144347970494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_12
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1553
+        width: 309
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94804aad6205e9a30800000000000000
+      internalID: 4223901628327266377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_13
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1553
+        width: 309
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e119559792ce24d50800000000000000
+      internalID: 6720193256863666462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_14
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1553
+        width: 310
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a77a79197242880800000000000000
+      internalID: -8636734679121692047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1053
+        width: 309
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3dcaa48e1869b60800000000000000
+      internalID: 7752526643250123712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_16
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1053
+        width: 310
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf7c5c8517525b0800000000000000
+      internalID: -5393780352617022312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_17
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1047
+        width: 314
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7a3993b0d49c800800000000000000
+      internalID: 633121933228222417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_18
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1047
+        width: 313
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097bc101becf1e100800000000000000
+      internalID: 135667550315657104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_19
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1047
+        width: 313
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e0bc5e05f2d280800000000000000
+      internalID: -9019877661636237964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 547
+        width: 314
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b07ab03007e0940800000000000000
+      internalID: 5264268172825398109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_21
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 547
+        width: 314
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b656921e4da8031a0800000000000000
+      internalID: -6831807987805756053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_22
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 553
+        width: 309
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bb3abaaf7712e10800000000000000
+      internalID: 2171148413874453367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_23
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 553
+        width: 309
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790feefb3b450dd10800000000000000
+      internalID: 2148310153251713175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_24
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 553
+        width: 310
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9683a2da969f35ed0800000000000000
+      internalID: -2426321541950457751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - Dog_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 53
+        width: 309
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e2108053c443910800000000000000
+      internalID: 1816160340388425280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

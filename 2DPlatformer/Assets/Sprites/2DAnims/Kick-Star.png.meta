@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: f3007b441aaf64c4cb6dbadb5d1efd01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 874789789290217818
+    second: Kick-Star_0
+  - first:
+      213: 2956943604469018672
+    second: Kick-Star_1
+  - first:
+      213: 3484194893940510855
+    second: Kick-Star_2
+  - first:
+      213: -7224359691342703384
+    second: Kick-Star_3
+  - first:
+      213: 4028233428897450238
+    second: Kick-Star_4
+  - first:
+      213: -7312250676919931242
+    second: Kick-Star_5
+  - first:
+      213: 8547480435779333983
+    second: Kick-Star_6
+  - first:
+      213: 5211622077005084838
+    second: Kick-Star_7
+  - first:
+      213: 8754124481520828974
+    second: Kick-Star_8
+  - first:
+      213: -4287388589532644408
+    second: Kick-Star_9
+  - first:
+      213: 4117305589328306509
+    second: Kick-Star_10
+  - first:
+      213: -3183104557428093267
+    second: Kick-Star_11
+  - first:
+      213: -3551510819466721363
+    second: Kick-Star_12
+  - first:
+      213: 1965709823807102639
+    second: Kick-Star_13
+  - first:
+      213: 6915679268009484810
+    second: Kick-Star_14
+  - first:
+      213: 3259318337997785557
+    second: Kick-Star_15
+  - first:
+      213: 4487214636821221737
+    second: Kick-Star_16
+  - first:
+      213: -9192205319046783718
+    second: Kick-Star_17
+  - first:
+      213: 6354459213191930072
+    second: Kick-Star_18
+  - first:
+      213: 3955678963237042888
+    second: Kick-Star_19
+  - first:
+      213: 8015696801972949818
+    second: Kick-Star_20
+  - first:
+      213: -6410657998071031176
+    second: Kick-Star_21
+  - first:
+      213: -5247787319512715793
+    second: Kick-Star_22
+  - first:
+      213: -8224072460899274377
+    second: Kick-Star_23
+  - first:
+      213: 5142624606749584252
+    second: Kick-Star_24
+  - first:
+      213: -7529890994291943165
+    second: Kick-Star_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kick-Star_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2576
+        width: 458
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5148c3bda0e32c00800000000000000
+      internalID: 874789789290217818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2576
+        width: 457
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0303d3daa8c290920800000000000000
+      internalID: 2956943604469018672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2575
+        width: 458
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780dd85cbc85a5030800000000000000
+      internalID: 3484194893940510855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_3
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 2575
+        width: 458
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e41ed3132bedbb90800000000000000
+      internalID: -7224359691342703384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_4
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 2574
+        width: 458
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef849c906f827e730800000000000000
+      internalID: 4028233428897450238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2074
+        width: 458
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee39550caa58a90800000000000000
+      internalID: -7312250676919931242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2074
+        width: 459
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f6a3b7b20ce9670800000000000000
+      internalID: 8547480435779333983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_7
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 2076
+        width: 465
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8b87baaa6635840800000000000000
+      internalID: 5211622077005084838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_8
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2076
+        width: 466
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e228998a5d5ec7970800000000000000
+      internalID: 8754124481520828974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_9
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2076
+        width: 457
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbf7da1bc22084c0800000000000000
+      internalID: -4287388589532644408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1576
+        width: 458
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e4ab7e9b932930800000000000000
+      internalID: 4117305589328306509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_11
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1576
+        width: 457
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae4293154753d3d0800000000000000
+      internalID: -3183104557428093267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1576
+        width: 458
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7cab5f9bf76bec0800000000000000
+      internalID: -3551510819466721363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_13
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1576
+        width: 458
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae94838baa974b10800000000000000
+      internalID: 1965709823807102639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_14
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1576
+        width: 457
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a022d3647ad69ff50800000000000000
+      internalID: 6915679268009484810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1076
+        width: 458
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9464282cc6b3d20800000000000000
+      internalID: 3259318337997785557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1076
+        width: 457
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96199aa10f9c54e30800000000000000
+      internalID: 4487214636821221737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1076
+        width: 458
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d92c7f6f9be6080800000000000000
+      internalID: -9192205319046783718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_18
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1076
+        width: 458
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0630eacf29f2850800000000000000
+      internalID: 6354459213191930072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_19
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1076
+        width: 457
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caba391f0565e630800000000000000
+      internalID: 3955678963237042888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 576
+        width: 458
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3315dcb5c97d3f60800000000000000
+      internalID: 8015696801972949818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_21
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 576
+        width: 457
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a95701484c807a0800000000000000
+      internalID: -6410657998071031176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_22
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 576
+        width: 458
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed25a3ac3d1c27b0800000000000000
+      internalID: -5247787319512715793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_23
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 576
+        width: 458
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771b6097ba93edd80800000000000000
+      internalID: -8224072460899274377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_24
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 576
+        width: 457
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bed7245d54e5740800000000000000
+      internalID: 5142624606749584252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Star_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 75
+        width: 458
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309d0d72904708790800000000000000
+      internalID: -7529890994291943165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -48,4 +48,10 @@ public class PauseGame : MonoBehaviour
         gamePaused = false;
         SceneManager.LoadScene("testUI");
     }
+
+    public void PlayAgain()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("scene1");
+    }
 }

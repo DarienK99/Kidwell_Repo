@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 584c9ef791d9a6d49876dbe38a686b4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8913570744187245693
+    second: Punch---Dog_0
+  - first:
+      213: 6574755238942420774
+    second: Punch---Dog_1
+  - first:
+      213: 8108184811807276963
+    second: Punch---Dog_2
+  - first:
+      213: 55573164499865426
+    second: Punch---Dog_3
+  - first:
+      213: -1029832304497651202
+    second: Punch---Dog_4
+  - first:
+      213: 3141953548414225480
+    second: Punch---Dog_5
+  - first:
+      213: -1923289630688977215
+    second: Punch---Dog_6
+  - first:
+      213: 4624073235315707480
+    second: Punch---Dog_7
+  - first:
+      213: -4732666009990314521
+    second: Punch---Dog_8
+  - first:
+      213: -1247960238065241091
+    second: Punch---Dog_9
+  - first:
+      213: -2675354295440407522
+    second: Punch---Dog_10
+  - first:
+      213: -4976883973377598321
+    second: Punch---Dog_11
+  - first:
+      213: 4059912059820945285
+    second: Punch---Dog_12
+  - first:
+      213: 1500440365318983765
+    second: Punch---Dog_13
+  - first:
+      213: 7227867661408421685
+    second: Punch---Dog_14
+  - first:
+      213: -5209092220626462163
+    second: Punch---Dog_15
+  - first:
+      213: -429789133860378089
+    second: Punch---Dog_16
+  - first:
+      213: 512800656287094595
+    second: Punch---Dog_17
+  - first:
+      213: 1471223418892550543
+    second: Punch---Dog_18
+  - first:
+      213: 6014676663429885055
+    second: Punch---Dog_19
+  - first:
+      213: 4384671713025905515
+    second: Punch---Dog_20
+  - first:
+      213: 1864083857265494785
+    second: Punch---Dog_21
+  - first:
+      213: -8260014888671948057
+    second: Punch---Dog_22
+  - first:
+      213: -7726658604074526795
+    second: Punch---Dog_23
+  - first:
+      213: -8373242386129711582
+    second: Punch---Dog_24
+  - first:
+      213: 8725545025475901442
+    second: Punch---Dog_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Punch---Dog_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2553
+        width: 318
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74589f9d5d53bb70800000000000000
+      internalID: 8913570744187245693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_1
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2553
+        width: 319
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f2d462e093e3b50800000000000000
+      internalID: 6574755238942420774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_2
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2553
+        width: 317
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af7df8902f068070800000000000000
+      internalID: 8108184811807276963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_3
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2553
+        width: 342
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0f09af7f65c000800000000000000
+      internalID: 55573164499865426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_4
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 2553
+        width: 342
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef11230b9fc45b1f0800000000000000
+      internalID: -1029832304497651202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2053
+        width: 341
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c02020b167a9b20800000000000000
+      internalID: 3141953548414225480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2053
+        width: 395
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce579a554a1f45e0800000000000000
+      internalID: -1923289630688977215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_7
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2053
+        width: 395
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e426eab120c2040800000000000000
+      internalID: 4624073235315707480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_8
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2053
+        width: 392
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e546f1b651325eb0800000000000000
+      internalID: -4732666009990314521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_9
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 2053
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df33f4486ca5eaee0800000000000000
+      internalID: -1247960238065241091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1553
+        width: 391
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1485f3617b3fdad0800000000000000
+      internalID: -2675354295440407522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1553
+        width: 392
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c5e76156e8eeab0800000000000000
+      internalID: -4976883973377598321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_12
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1553
+        width: 391
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fa3f01284b75830800000000000000
+      internalID: 4059912059820945285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_13
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1553
+        width: 392
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550de750092a2d410800000000000000
+      internalID: 1500440365318983765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_14
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1553
+        width: 391
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53748c9d75b8e4460800000000000000
+      internalID: 7227867661408421685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1053
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a1f4b693695b7b0800000000000000
+      internalID: -5209092220626462163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_16
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1053
+        width: 392
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aede35f05190af0800000000000000
+      internalID: -429789133860378089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_17
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1053
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347549eda75dd1700800000000000000
+      internalID: 512800656287094595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_18
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1053
+        width: 392
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81835497e5da6410800000000000000
+      internalID: 1471223418892550543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_19
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1053
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ce19aee8c687350800000000000000
+      internalID: 6014676663429885055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 553
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63dc9721bb79dc30800000000000000
+      internalID: 4384671713025905515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 553
+        width: 392
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b89df446e8ed910800000000000000
+      internalID: 1864083857265494785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_22
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 553
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e25541e8388e5d80800000000000000
+      internalID: -8260014888671948057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_23
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 553
+        width: 392
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b71c6befe465c490800000000000000
+      internalID: -7726658604074526795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_24
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 553
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e8e74c9644ccb80800000000000000
+      internalID: -8373242386129711582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch---Dog_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 53
+        width: 318
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208fa2388fc571970800000000000000
+      internalID: 8725545025475901442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

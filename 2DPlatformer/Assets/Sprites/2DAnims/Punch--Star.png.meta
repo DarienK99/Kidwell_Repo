@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: ee72d4e73db1c944599f349d5d40f750
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1881537501573785337
+    second: Punch--Star_0
+  - first:
+      213: 6273679339578001753
+    second: Punch--Star_1
+  - first:
+      213: 7173477358857062563
+    second: Punch--Star_2
+  - first:
+      213: 4632182251461742998
+    second: Punch--Star_3
+  - first:
+      213: 1662474506393385725
+    second: Punch--Star_4
+  - first:
+      213: -772459270548127613
+    second: Punch--Star_5
+  - first:
+      213: -694879242254824011
+    second: Punch--Star_6
+  - first:
+      213: 346403971158086442
+    second: Punch--Star_7
+  - first:
+      213: -6682037402524886547
+    second: Punch--Star_8
+  - first:
+      213: 711475752793302024
+    second: Punch--Star_9
+  - first:
+      213: 3406035438511027909
+    second: Punch--Star_10
+  - first:
+      213: -9223135439374197095
+    second: Punch--Star_11
+  - first:
+      213: -2385110925025559632
+    second: Punch--Star_12
+  - first:
+      213: -2126159620293283125
+    second: Punch--Star_13
+  - first:
+      213: 3130297494016489162
+    second: Punch--Star_14
+  - first:
+      213: -6610973082391204191
+    second: Punch--Star_15
+  - first:
+      213: -6129585715439324638
+    second: Punch--Star_16
+  - first:
+      213: 6449185699937149724
+    second: Punch--Star_17
+  - first:
+      213: 6564373985230086918
+    second: Punch--Star_18
+  - first:
+      213: -9141696533274451809
+    second: Punch--Star_19
+  - first:
+      213: -2980682073772172496
+    second: Punch--Star_20
+  - first:
+      213: -745788812478880957
+    second: Punch--Star_21
+  - first:
+      213: 9211378258084924166
+    second: Punch--Star_22
+  - first:
+      213: 6679810002436590329
+    second: Punch--Star_23
+  - first:
+      213: 6975428880461827444
+    second: Punch--Star_24
+  - first:
+      213: 7756588535317609406
+    second: Punch--Star_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Punch--Star_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2563
+        width: 342
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7095e137c9f63e5e0800000000000000
+      internalID: -1881537501573785337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_1
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2563
+        width: 341
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9590146be16901750800000000000000
+      internalID: 6273679339578001753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_2
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2563
+        width: 341
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a88bf2b6af4d8360800000000000000
+      internalID: 7173477358857062563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_3
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2563
+        width: 451
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6911f312731d84040800000000000000
+      internalID: 4632182251461742998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_4
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 2563
+        width: 449
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa78b161cb421710800000000000000
+      internalID: 1662474506393385725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2063
+        width: 466
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3808587d26ca745f0800000000000000
+      internalID: -772459270548127613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_6
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2063
+        width: 429
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdcb93c20b4b56f0800000000000000
+      internalID: -694879242254824011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_7
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2063
+        width: 429
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2399a1939caec400800000000000000
+      internalID: 346403971158086442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_8
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2063
+        width: 427
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de951a6a262a443a0800000000000000
+      internalID: -6682037402524886547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_9
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 2063
+        width: 468
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8046c877d6bafd900800000000000000
+      internalID: 711475752793302024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1564
+        width: 429
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c677d47f2ba44f20800000000000000
+      internalID: 3406035438511027909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1564
+        width: 429
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed8c42f27d00080800000000000000
+      internalID: -9223135439374197095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_12
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1564
+        width: 429
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbb2f3204266eed0800000000000000
+      internalID: -2385110925025559632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_13
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1564
+        width: 427
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2b3a8171d5e72e0800000000000000
+      internalID: -2126159620293283125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_14
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1564
+        width: 429
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f52c5cfc017b20800000000000000
+      internalID: 3130297494016489162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1063
+        width: 429
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae276c020b1144a0800000000000000
+      internalID: -6610973082391204191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_16
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1063
+        width: 429
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2223eea84465feaa0800000000000000
+      internalID: -6129585715439324638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_17
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1063
+        width: 429
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13684f893c108950800000000000000
+      internalID: 6449185699937149724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_18
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1063
+        width: 427
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603647a2c57591b50800000000000000
+      internalID: 6564373985230086918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_19
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1063
+        width: 429
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a1c1107b222180800000000000000
+      internalID: -9141696533274451809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 563
+        width: 429
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b5f6c327d72a6d0800000000000000
+      internalID: -2980682073772172496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 563
+        width: 429
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3436cb2c60d66a5f0800000000000000
+      internalID: -745788812478880957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 563
+        width: 429
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b88e4c8b365df70800000000000000
+      internalID: 9211378258084924166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_23
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 563
+        width: 427
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa855a5ec373bc50800000000000000
+      internalID: 6679810002436590329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_24
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 563
+        width: 429
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d8deffb93bdc060800000000000000
+      internalID: 6975428880461827444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch--Star_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 429
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb397c3d20f4ab60800000000000000
+      internalID: 7756588535317609406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
